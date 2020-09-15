@@ -88,7 +88,6 @@ This will prompt the **Device Code Flow** with a code you must enter on the [Mic
 - **MSAL for .NET**
   - GitHub - [Link](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet)
   - Nuget - [Link](https://www.nuget.org/packages/Microsoft.Identity.Client)
-- **Newtonsoft.Json**
-  - GitHub - [Link](https://github.com/JamesNK/Newtonsoft.Json)
-  - Nuget - [Link](https://www.nuget.org/packages/Newtonsoft.Json/)
-  - Website - [Link](https://www.newtonsoft.com/json)
+- **System.Text.Json**
+  - GitHub - [Link](https://github.com/dotnet/runtime)
+  - Nuget - [Link](https://www.nuget.org/packages/System.Text.Json/)
